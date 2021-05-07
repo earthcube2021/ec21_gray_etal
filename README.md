@@ -1,6 +1,7 @@
 # Leveraging satellite data and pangeo to investigate the role of Gulf Stream frontal dynamics in ocean productivity
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/earthcube/NotebookTemplates/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/patrickcgray/gulf_stream_productivity_dynamics/main)
+
 
 Using this notebook template is recommended for submissions to EarthCube events and competitions.<br>
 
