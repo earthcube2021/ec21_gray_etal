@@ -2,10 +2,9 @@ name: myenv
 channels:
   - conda-forge
 dependencies:
-  - pangeo-notebook==2021.02.07
+  - pangeo-notebook==22c94acd
   - xarray
   - hvplot
   - pip
   - pip:
-    - sat-search
     - googledrivedownloader==0.4
