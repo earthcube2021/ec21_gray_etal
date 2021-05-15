@@ -1,0 +1,10 @@
+name: myenv
+channels:
+  - conda-forge
+dependencies:
+  - pangeo-notebook==22c94acd
+  - xarray
+  - hvplot
+  - pip
+  - pip:
+    - googledrivedownloader==0.4
