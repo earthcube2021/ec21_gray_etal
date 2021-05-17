@@ -7,7 +7,7 @@ This notebook can also be run in the pangeo binder for a bit more memory:
 
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/patrickcgray/gulf_stream_productivity_dynamics/main)
 
-It will take a few minutes to provision on either system, but allows a fully interactive coding environment with this notebook and all dependencies included.
+It will take a few minutes to provision on either system, but allows a fully interactive coding environment with this notebook and all dependencies included. On occasion there can be a network issue with downloading the necessary packages. If you have any issues or get any error messages please try the other option or click the link again to relaunch binder.
 
 ## Overview
 
