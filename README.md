@@ -4,9 +4,9 @@ Authors:
 [Patrick C. Gray](https://orcid.org/0000-0002-8997-5255) & [David W. Johnson](https://orcid.org/0000-0003-2424-036X)
 
 ### Running the Notebook
-This notebook can be run fully in the cloud via binder by clicking this badge:    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/patrickcgray/gulf_stream_productivity_dynamics/main)
+This notebook can be run fully in the cloud via binder by clicking this badge:    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/earthcube2021/ec21_gray_etal/main)
 
-This notebook can also be run in the pangeo binder for additional memory: [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/patrickcgray/gulf_stream_productivity_dynamics/main)
+This notebook can also be run in the pangeo binder for additional memory: [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/earthcube2021/ec21_gray_etal/main)
 
 It may take a few minutes to provision, but these Binder links create a fully interactive coding environment with this notebook and all dependencies included. On occasion there can be a network issue with downloading the necessary packages. If you have any issues try the other option or re-click to relaunch binder.
 
