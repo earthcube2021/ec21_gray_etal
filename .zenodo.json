@@ -1,0 +1,8 @@
+{
+    "title": "Leveraging satellite data and pangeo to investigate the role of Gulf Stream frontal dynamics in ocean productivity",
+    "creators": [
+        {"name": "Patrick Clifton Gray", "affiliation": "Duke University Marine Lab", "email": "patrick.c.gray@duke.edu", "orcid": "0000-0002-8997-5255"},
+        {"name": "David W. Johnston", "affiliation": "Duke University Marine Lab", "email": "david.johnston@duke.edu", "orcid": "0000-0003-2424-036X"}    
+    ],
+    "keywords":["gulf stream", "satellite oceanography", "xarray", "physical-biological", "ocean productivity"]
+}
