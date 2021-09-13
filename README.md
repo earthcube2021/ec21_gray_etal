@@ -1,5 +1,9 @@
 # Leveraging satellite data and pangeo to investigate the role of Gulf Stream frontal dynamics in ocean productivity
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5496260.svg)](https://doi.org/10.5281/zenodo.5496260)
+
+
 Authors:
 [Patrick C. Gray](https://orcid.org/0000-0002-8997-5255) & [David W. Johnson](https://orcid.org/0000-0003-2424-036X)
 
